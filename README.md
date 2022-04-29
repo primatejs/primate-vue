@@ -11,7 +11,7 @@ npm install primate-vue
 
 ## Using
 
-Create an SFC component in `components`, e.g. `PostIndex.vue`.
+Create a [SFC][sfc] component in `components`, e.g. `PostIndex.vue`.
 
 ```vue
 <template>
@@ -48,3 +48,4 @@ BSD-3-Clause
 
 [primate-app]: https://github.com/primatejs/primate-app
 [primate-react]: https://github.com/primatejs/primate-react
+[sfc]: https://vuejs.org/guide/scaling-up/sfc.html#single-file-components
