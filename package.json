@@ -1,0 +1,16 @@
+{
+  "name": "primate-vue",
+  "version": "0.1.0",
+  "author": "Primate core team <core@primatejs.com>",
+  "homepage": "https://primatejs.com",
+  "bugs": "https://github.com/primatejs/primate-vue/issues",
+  "repository": "https://github.com/primatejs/primate-vue",
+  "description": "Primate Vue client",
+  "dependencies": {
+    "primate": "^0.8.1",
+    "runtime-compat": "^0.1.6",
+    "vue": "^3.2.33"
+  },
+  "type": "module",
+  "main": "./exports.js"
+}
