@@ -25,7 +25,7 @@ Create a [SFC][sfc] component in `components`, e.g. `PostIndex.vue`.
 Create a route using the handler.
 
 ```js
-import {router, redirect, defined} from "primate";
+import {router} from "primate";
 import vue from "primate-vue";
 import Post from "../domains/Post.js";
 
